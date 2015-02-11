@@ -52,7 +52,7 @@ void Lcd_Config (void)
  * @param[in]	AddrCount	select increment or decrement address counter
  *                          - Dec : 0
  *                          - Inc : 1
- * @param[in]	DispShift	select display shift on or off
+ * @param[in]	DispShift	select display cursor shift on or off
  *                          - DispShiftOff: 0
  *                          - DispShiftOn : 1
  * @return 		None
